@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mglvarella&label=Profile%20views&color=0e75b6&style=flat" alt="mglvarella_profileviews" /> </p>
 
-- I'm a Backend developer, but I also worked with a few frontend tools.
-- I speak Portuguese and English
-- I'm currently studing Information Systems (Bachelor degree) at UNESP - São Paulo State University
+Backend developer working with legacy Oracle PL/SQL systems and also dabbling in frontend.
+Bilingual in Portuguese and English.
+Currently studying Information Systems at UNESP (São Paulo State University).
+Lately diving deep into Java + Spring Boot to build modern, scalable back‑ends.
 
 ## Contact me:
 
-[![Email](https://img.shields.io/badge/email-0077B5?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:nano9gs@hotmail.es)
+[![Email](https://img.shields.io/badge/email-0077B5?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:mig-varella@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/miguel-varella)
 
 ## Skills:
