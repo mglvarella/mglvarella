@@ -33,7 +33,7 @@ Lately diving deep into Java + Spring Boot to build modern, scalable back�
 #### Frameworks
 
 [![SpringBoot](https://img.shields.io/badge/SpringBoot%20-%6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white&labelColor=101010)](https://docs.spring.io/spring-boot/documentation.html)
-[![Node.js](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)](https://nodejs.org/docs/latest/api/)
+[![Nest.js](https://img.shields.io/badge/nest-FF2F6A?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)](https://docs.nestjs.com/)
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=101010)](https://react.dev/reference/react)
 
 #### Version Control
