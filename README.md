@@ -45,7 +45,7 @@ Lately diving deep into Java + Spring Boot to build modern, scalable back�
 
 [![Docker](https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)](https://docs.docker.com/)
 
-### ⚙️ &nbsp;GitHub Analytics
+<!--### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/mglvarella">
@@ -53,4 +53,4 @@ Lately diving deep into Java + Spring Boot to build modern, scalable back�
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=mglvarella&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff)](#) 
 
-</a>
+</a> -->
